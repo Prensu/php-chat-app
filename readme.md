@@ -22,9 +22,9 @@ This project allows users to sign up, log in, and chat with other registered use
 
 
 
-![Login Page](github_images/img21.png)
-![Chat Window](github_images/img22.png)
-![Chat Window](github_images/img23.png)
+![Login Page](images_github/img21.png)
+![Chat Window](images_github/img22.png)
+![Chat Window](images_github/img23.png)
 
 
 📂 Project Structure
